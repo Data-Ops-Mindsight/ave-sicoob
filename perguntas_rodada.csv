@@ -1,0 +1,74 @@
+marco,papel,ordem,pergunta,competencia
+45,colaborador,1,Fui recebido(a) e acolhido(a) adequadamente pela equipe e pela liderança,Clima e relacionamento
+45,colaborador,2,"Adaptei-me com facilidade à cultura, às normas e às rotinas da cooperativa",Cultura e cooperativismo
+45,colaborador,3,Compreendi os conceitos e valores do cooperativismo aplicados ao meu dia a dia,Cultura e cooperativismo
+45,colaborador,4,Estabeleci relacionamentos profissionais positivos com pares e gestor,Clima e relacionamento
+45,colaborador,5,Tenho clareza sobre as responsabilidades e expectativas do meu cargo,Clareza do papel e domínio técnico
+45,colaborador,6,Demonstro proatividade na busca de aprendizado,Proatividade e aprendizado
+45,colaborador,7,Cumpro prazos e compromissos assumidos com responsabilidade,Responsabilidade e organização
+45,colaborador,8,Mantenho pontualidade e assiduidade na jornada de trabalho,Responsabilidade e organização
+45,colaborador,9,Planejo e organizo minhas atividades para atingir os resultados esperados,Responsabilidade e organização
+45,colaborador,10,"Comunico-me de forma clara, objetiva e respeitosa com a equipe",Comunicação e feedback
+45,colaborador,11,Recebo feedbacks com abertura e aplico as orientações recebidas,Comunicação e feedback
+45,colaborador,12,Solicito ajuda ou esclarecimentos quando necessário,Comunicação e feedback
+45,colaborador,13,Contribuo para um clima de equipe colaborativo e respeitoso,Clima e relacionamento
+45,colaborador,14,Mantenho equilíbrio emocional diante de situações de pressão ou incerteza,Equilíbrio e adaptabilidade
+45,colaborador,15,Demonstro satisfação e motivação com o trabalho realizado,Equilíbrio e adaptabilidade
+45,colaborador,16,"Sinto-me seguro(a) para expor dúvidas, dificuldades e discordâncias ao meu gestor",Comunicação e feedback
+45,colaborador,17,Adapto-me bem a mudanças de prioridade ou situações inesperadas,Equilíbrio e adaptabilidade
+45,colaborador,18,Consigo manter o desempenho mesmo em atividades que ainda são novas para mim,Equilíbrio e adaptabilidade
+45,gestor,23,O(a) colaborador(a) demonstrou facilidade em adaptar-se à cultura e às normas da cooperativa,Cultura e cooperativismo
+45,gestor,24,"Integrou-se positivamente à equipe, construindo relacionamentos profissionais",Clima e relacionamento
+45,gestor,25,Demonstra compreensão dos conceitos cooperativistas aplicados à rotina de trabalho,Cultura e cooperativismo
+45,gestor,26,Estabeleceu comunicação clara e positiva com pares e liderança,Comunicação e feedback
+45,gestor,27,Compreendeu as expectativas e responsabilidades do cargo,Clareza do papel e domínio técnico
+45,gestor,28,Demonstra comportamento proativo na busca de aprendizado e resolução de problemas,Proatividade e aprendizado
+45,gestor,29,"Cumpre prazos, acordos e compromissos com consistência",Responsabilidade e organização
+45,gestor,30,Mantém postura responsável e profissional no ambiente de trabalho,Responsabilidade e organização
+45,gestor,31,Apresenta planejamento e organização no desenvolvimento das atividades,Responsabilidade e organização
+45,gestor,32,Demonstra senso de urgência adequado às demandas realizadas,Responsabilidade e organização
+45,gestor,33,"Comunica-se de forma clara, objetiva e construtiva",Comunicação e feedback
+45,gestor,34,Aceita e aplica feedbacks e orientações da liderança,Comunicação e feedback
+45,gestor,35,Contribui positivamente para o clima e a dinâmica da equipe,Clima e relacionamento
+45,gestor,36,Demonstra escuta ativa e abertura ao diálogo,Comunicação e feedback
+45,gestor,37,O domínio técnico apresentado é compatível com o esperado para o cargo,Clareza do papel e domínio técnico
+45,gestor,38,"Utiliza ferramentas, sistemas e processos com adequação crescente",Clareza do papel e domínio técnico
+45,gestor,39,A qualidade das entregas realizadas atende ao padrão esperado para o período,Resultados e qualidade
+45,gestor,40,Busca desenvolver-se continuamente com autonomia e proatividade,Proatividade e aprendizado
+90,colaborador,45,Percebo evolução consistente no meu desempenho,Evolução e autonomia
+90,colaborador,46,Executo as atividades do cargo com crescente autonomia e qualidade,Evolução e autonomia
+90,colaborador,47,Atinjo os resultados estabelecidos para o meu cargo,Resultados e qualidade
+90,colaborador,48,"Domino os processos, sistemas e ferramentas necessários para a função",Clareza do papel e domínio técnico
+90,colaborador,49,Proponho melhorias e soluções para os processos da minha área de atuação,Melhoria de processos
+90,colaborador,50,Demonstro proatividade e iniciativa na resolução de problemas e desafios,Proatividade e aprendizado
+90,colaborador,51,Gerencio meu tempo e prioridades de forma eficiente,Responsabilidade e organização
+90,colaborador,52,Mantenho consistência na entrega e no cumprimento de prazos,Responsabilidade e organização
+90,colaborador,53,Tomo decisões com senso de urgência e responsabilidade,Responsabilidade e organização
+90,colaborador,54,Busco aprimoramento técnico e comportamental de forma proativa,Proatividade e aprendizado
+90,colaborador,55,Reconheço os valores da cooperativa presentes nas práticas e decisões do dia a dia,Cultura e cooperativismo
+90,colaborador,56,Contribuo ativamente para o clima positivo e a colaboração entre equipes,Clima e relacionamento
+90,colaborador,57,Aplico os princípios do cooperativismo no meu dia a dia profissional,Cultura e cooperativismo
+90,colaborador,58,Percebo meu trabalho como relevante para os resultados da cooperativa,Visão e impacto organizacional
+90,colaborador,59,Recebi feedbacks que contribuíram para a minha evolução neste período,Comunicação e feedback
+90,colaborador,60,"Comunico-me de forma assertiva, contribuindo para soluções e resultados",Comunicação e feedback
+90,colaborador,61,Compreendo como o meu trabalho impacta os resultados da minha área e da cooperativa,Visão e impacto organizacional
+90,colaborador,62,Identifico oportunidades de melhoria nas rotinas e processos com os quais trabalho,Melhoria de processos
+90,gestor,67,O(a) colaborador(a) apresentou evolução perceptível em relação à avaliação de 45 dias,Evolução e autonomia
+90,gestor,68,Executa as atividades com autonomia e qualidade compatíveis com o cargo,Evolução e autonomia
+90,gestor,69,A qualidade das entregas está dentro ou acima do padrão esperado,Resultados e qualidade
+90,gestor,70,Demonstra capacidade de aprendizado rápido e aplicação prática do conhecimento,Proatividade e aprendizado
+90,gestor,71,Demonstra proatividade e iniciativa na identificação e resolução de problemas,Proatividade e aprendizado
+90,gestor,72,"Gerencia bem o tempo e as prioridades, entregando resultados dentro dos prazos",Responsabilidade e organização
+90,gestor,73,Toma decisões com senso de urgência e responsabilidade adequados,Responsabilidade e organização
+90,gestor,74,Propõe melhorias e contribui para a evolução dos processos da área,Melhoria de processos
+90,gestor,75,Busca desenvolvimento contínuo com proatividade,Proatividade e aprendizado
+90,gestor,76,Demonstra comportamentos alinhados com os valores e a cultura cooperativista,Cultura e cooperativismo
+90,gestor,77,"Contribui positivamente para o clima, a dinâmica e os resultados da equipe",Clima e relacionamento
+90,gestor,78,"Comunica-se de forma clara, assertiva e construtiva em diferentes contextos",Comunicação e feedback
+90,gestor,79,Demonstra regulação emocional e resiliência diante de pressões e desafios,Equilíbrio e adaptabilidade
+90,gestor,80,Representa adequadamente os valores da cooperativa,Cultura e cooperativismo
+90,gestor,81,Compreende como suas atividades impactam os resultados da área e da cooperativa,Visão e impacto organizacional
+90,gestor,82,Identifica oportunidades de melhoria nos processos e rotinas da área de atuação,Melhoria de processos
+90,gestor,83,Demonstra engajamento e alinhamento com o propósito e os objetivos organizacionais,Visão e impacto organizacional
+90,gestor,84,"Constrói relacionamentos profissionais sólidos com equipe, pares e liderança",Clima e relacionamento
+90,gestor,85,Apresenta potencial para assumir maiores responsabilidades no futuro,Potencial

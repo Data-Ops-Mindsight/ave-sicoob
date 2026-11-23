@@ -1,0 +1,96 @@
+# Competências (temas) por pergunta de múltipla escolha, chave = question_order da API.
+# PROPOSTA a validar pelo RH: agrupa perguntas de gestor e colaborador (textos diferentes) para o comparativo.
+# Pergunta fora daqui aparece com o próprio texto como competência. Gerado da planilha de perguntas da rodada 14.
+competencias:
+  45_colaborador:   # question_set 96
+    1: "Clima e relacionamento"   # Fui recebido(a) e acolhido(a) adequadamente pela equipe e pela lideran
+    2: "Cultura e cooperativismo"   # Adaptei-me com facilidade à cultura, às normas e às rotinas da coopera
+    3: "Cultura e cooperativismo"   # Compreendi os conceitos e valores do cooperativismo aplicados ao meu d
+    4: "Clima e relacionamento"   # Estabeleci relacionamentos profissionais positivos com pares e gestor
+    5: "Clareza do papel e domínio técnico"   # Tenho clareza sobre as responsabilidades e expectativas do meu cargo
+    6: "Proatividade e aprendizado"   # Demonstro proatividade na busca de aprendizado
+    7: "Responsabilidade e organização"   # Cumpro prazos e compromissos assumidos com responsabilidade
+    8: "Responsabilidade e organização"   # Mantenho pontualidade e assiduidade na jornada de trabalho
+    9: "Responsabilidade e organização"   # Planejo e organizo minhas atividades para atingir os resultados espera
+    10: "Comunicação e feedback"   # Comunico-me de forma clara, objetiva e respeitosa com a equipe
+    11: "Comunicação e feedback"   # Recebo feedbacks com abertura e aplico as orientações recebidas
+    12: "Comunicação e feedback"   # Solicito ajuda ou esclarecimentos quando necessário
+    13: "Clima e relacionamento"   # Contribuo para um clima de equipe colaborativo e respeitoso
+    14: "Equilíbrio e adaptabilidade"   # Mantenho equilíbrio emocional diante de situações de pressão ou incert
+    15: "Equilíbrio e adaptabilidade"   # Demonstro satisfação e motivação com o trabalho realizado
+    16: "Comunicação e feedback"   # Sinto-me seguro(a) para expor dúvidas, dificuldades e discordâncias ao
+    17: "Equilíbrio e adaptabilidade"   # Adapto-me bem a mudanças de prioridade ou situações inesperadas
+    18: "Equilíbrio e adaptabilidade"   # Consigo manter o desempenho mesmo em atividades que ainda são novas pa
+  45_gestor:   # question_set 97
+    23: "Cultura e cooperativismo"   # O(a) colaborador(a) demonstrou facilidade em adaptar-se à cultura e às
+    24: "Clima e relacionamento"   # Integrou-se positivamente à equipe, construindo relacionamentos profis
+    25: "Cultura e cooperativismo"   # Demonstra compreensão dos conceitos cooperativistas aplicados à rotina
+    26: "Comunicação e feedback"   # Estabeleceu comunicação clara e positiva com pares e liderança
+    27: "Clareza do papel e domínio técnico"   # Compreendeu as expectativas e responsabilidades do cargo
+    28: "Proatividade e aprendizado"   # Demonstra comportamento proativo na busca de aprendizado e resolução d
+    29: "Responsabilidade e organização"   # Cumpre prazos, acordos e compromissos com consistência
+    30: "Responsabilidade e organização"   # Mantém postura responsável e profissional no ambiente de trabalho
+    31: "Responsabilidade e organização"   # Apresenta planejamento e organização no desenvolvimento das atividades
+    32: "Responsabilidade e organização"   # Demonstra senso de urgência adequado às demandas realizadas
+    33: "Comunicação e feedback"   # Comunica-se de forma clara, objetiva e construtiva
+    34: "Comunicação e feedback"   # Aceita e aplica feedbacks e orientações da liderança
+    35: "Clima e relacionamento"   # Contribui positivamente para o clima e a dinâmica da equipe
+    36: "Comunicação e feedback"   # Demonstra escuta ativa e abertura ao diálogo
+    37: "Clareza do papel e domínio técnico"   # O domínio técnico apresentado é compatível com o esperado para o cargo
+    38: "Clareza do papel e domínio técnico"   # Utiliza ferramentas, sistemas e processos com adequação crescente
+    39: "Resultados e qualidade"   # A qualidade das entregas realizadas atende ao padrão esperado para o p
+    40: "Proatividade e aprendizado"   # Busca desenvolver-se continuamente com autonomia e proatividade
+  90_colaborador:   # question_set 98
+    45: "Evolução e autonomia"   # Percebo evolução consistente no meu desempenho
+    46: "Evolução e autonomia"   # Executo as atividades do cargo com crescente autonomia e qualidade
+    47: "Resultados e qualidade"   # Atinjo os resultados estabelecidos para o meu cargo
+    48: "Clareza do papel e domínio técnico"   # Domino os processos, sistemas e ferramentas necessários para a função
+    49: "Melhoria de processos"   # Proponho melhorias e soluções para os processos da minha área de atuaç
+    50: "Proatividade e aprendizado"   # Demonstro proatividade e iniciativa na resolução de problemas e desafi
+    51: "Responsabilidade e organização"   # Gerencio meu tempo e prioridades de forma eficiente
+    52: "Responsabilidade e organização"   # Mantenho consistência na entrega e no cumprimento de prazos
+    53: "Responsabilidade e organização"   # Tomo decisões com senso de urgência e responsabilidade
+    54: "Proatividade e aprendizado"   # Busco aprimoramento técnico e comportamental de forma proativa
+    55: "Cultura e cooperativismo"   # Reconheço os valores da cooperativa presentes nas práticas e decisões 
+    56: "Clima e relacionamento"   # Contribuo ativamente para o clima positivo e a colaboração entre equip
+    57: "Cultura e cooperativismo"   # Aplico os princípios do cooperativismo no meu dia a dia profissional
+    58: "Visão e impacto organizacional"   # Percebo meu trabalho como relevante para os resultados da cooperativa
+    59: "Comunicação e feedback"   # Recebi feedbacks que contribuíram para a minha evolução neste período
+    60: "Comunicação e feedback"   # Comunico-me de forma assertiva, contribuindo para soluções e resultado
+    61: "Visão e impacto organizacional"   # Compreendo como o meu trabalho impacta os resultados da minha área e d
+    62: "Melhoria de processos"   # Identifico oportunidades de melhoria nas rotinas e processos com os qu
+  90_gestor:   # question_set 99
+    67: "Evolução e autonomia"   # O(a) colaborador(a) apresentou evolução perceptível em relação à avali
+    68: "Evolução e autonomia"   # Executa as atividades com autonomia e qualidade compatíveis com o carg
+    69: "Resultados e qualidade"   # A qualidade das entregas está dentro ou acima do padrão esperado
+    70: "Proatividade e aprendizado"   # Demonstra capacidade de aprendizado rápido e aplicação prática do conh
+    71: "Proatividade e aprendizado"   # Demonstra proatividade e iniciativa na identificação e resolução de pr
+    72: "Responsabilidade e organização"   # Gerencia bem o tempo e as prioridades, entregando resultados dentro do
+    73: "Responsabilidade e organização"   # Toma decisões com senso de urgência e responsabilidade adequados
+    74: "Melhoria de processos"   # Propõe melhorias e contribui para a evolução dos processos da área
+    75: "Proatividade e aprendizado"   # Busca desenvolvimento contínuo com proatividade
+    76: "Cultura e cooperativismo"   # Demonstra comportamentos alinhados com os valores e a cultura cooperat
+    77: "Clima e relacionamento"   # Contribui positivamente para o clima, a dinâmica e os resultados da eq
+    78: "Comunicação e feedback"   # Comunica-se de forma clara, assertiva e construtiva em diferentes cont
+    79: "Equilíbrio e adaptabilidade"   # Demonstra regulação emocional e resiliência diante de pressões e desaf
+    80: "Cultura e cooperativismo"   # Representa adequadamente os valores da cooperativa
+    81: "Visão e impacto organizacional"   # Compreende como suas atividades impactam os resultados da área e da co
+    82: "Melhoria de processos"   # Identifica oportunidades de melhoria nos processos e rotinas da área d
+    83: "Visão e impacto organizacional"   # Demonstra engajamento e alinhamento com o propósito e os objetivos org
+    84: "Clima e relacionamento"   # Constrói relacionamentos profissionais sólidos com equipe, pares e lid
+    85: "Potencial"   # Apresenta potencial para assumir maiores responsabilidades no futuro
+
+# Descrição de cada competência (exibida na aba "Competências"). A chave deve ser igual ao nome usado acima.
+temas:
+  "Cultura e cooperativismo": "Adaptação à cultura, às normas e aos valores da cooperativa e aplicação dos princípios do cooperativismo no dia a dia."
+  "Clima e relacionamento": "Integração à equipe, relacionamentos profissionais positivos e contribuição para um clima colaborativo e respeitoso."
+  "Clareza do papel e domínio técnico": "Compreensão das responsabilidades e expectativas do cargo e domínio das ferramentas, sistemas e processos."
+  "Proatividade e aprendizado": "Iniciativa, busca de aprendizado e desenvolvimento contínuo com autonomia."
+  "Responsabilidade e organização": "Cumprimento de prazos e compromissos, pontualidade, planejamento e gestão do tempo e das prioridades."
+  "Comunicação e feedback": "Comunicação clara e respeitosa, abertura para receber feedbacks e para pedir ajuda."
+  "Equilíbrio e adaptabilidade": "Equilíbrio emocional, motivação e adaptação a mudanças de prioridade e a situações de pressão."
+  "Resultados e qualidade": "Atingimento dos resultados e qualidade das entregas esperados para o cargo e o período."
+  "Evolução e autonomia": "Evolução percebida do desempenho e crescente autonomia na execução das atividades."
+  "Melhoria de processos": "Identificação de oportunidades e proposição de melhorias nas rotinas e processos da área."
+  "Visão e impacto organizacional": "Compreensão do impacto do trabalho nos resultados da área e da cooperativa e alinhamento ao propósito."
+  "Potencial": "Potencial para assumir maiores responsabilidades no futuro (avaliado só pelo gestor, aos 90 dias)."

@@ -1,0 +1,30 @@
+# segredos
+.streamlit/secrets.toml
+.env
+.env.*
+!.env.example
+creds*.json
+*credentials*.json
+*.pem
+*.key
+
+# dados pessoais e banco
+data/
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+
+# relatórios e exportações gerados (têm nomes e notas)
+*.pdf
+*.xlsx
+*.xls
+
+# ambiente e lixo
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.log
+.DS_Store

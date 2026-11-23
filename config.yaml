@@ -1,0 +1,62 @@
+# Configuração do painel AVE – Sicoob Cocred
+tenant: sicoobcocred
+base_url: "https://performance.mindsight.com.br/{tenant}/api/v1/"
+rodada: 14
+rodada_nome: "Avaliação de Experiência | 2026"
+page_size: 200
+timeout_s: 60
+
+# Não há atualização automática: os dados só são buscados na API quando alguém clica no botão
+# da Tela inicial. Intervalo mínimo entre duas atualizações (vale para todos os usuários):
+espera_atualizacao_min: 5
+
+# Só aparecem no painel pessoas com esta tag (campo `tags` dos participantes da rodada)
+exigir_tag_experiencia: true
+tag_em_experiencia: "Em experiência"
+
+# Token da API lido da planilha do Google (conta de serviço; colunas cliente, sistema, token).
+# Credenciais no .env ou nos secrets: GOOGLE_CREDENTIALS_PATH (caminho do creds.json) ou
+# GOOGLE_CREDENTIALS_JSON (conteúdo do arquivo), e TOKEN_SPREADSHEET_ID.
+# Sem essas credenciais, usa o MINDSIGHT_TOKEN fixo.
+token_provider:
+  ativo: true
+  sistema: performance
+  intervalo: "A1:C"
+  ttl_min: 30
+
+# Segurança
+sessao_expira_min: 60
+login_max_falhas: 5
+login_janela_min: 15
+# Regra do escopo do BP (A DEFINIR com o RH): "uniao" ou "interseccao"
+bp_escopo_modo: uniao
+
+# Escala das notas (answer_value) usada só para exibição
+escala_max: 4   # opções 1 a 4 (Discordo Totalmente … Concordo Totalmente)
+
+db_path: data/ave.db
+
+# Marco 80 dias == 90 dias (GPC do 2º marco)
+marco_aliases: {80: 90}
+marcos: [45, 90]
+
+# Mapeamento por question_set (preferencial) -> marco/papel
+question_sets:
+  96:  {marco: 45, papel: colaborador}
+  97:  {marco: 45, papel: gestor}
+  98:  {marco: 90, papel: colaborador}
+  99:  {marco: 90, papel: gestor}
+  118: {marco: 45, papel: gpc}
+  120: {marco: 80, papel: gpc}
+
+# Mapeamento por key do grupo avaliativo (fallback). Preencher com: python coletor.py --grupos
+grupos:
+  "Autoavaliação | 45 dias": {marco: 45, papel: colaborador}
+  "Autoavaliação | 90 dias": {marco: 90, papel: colaborador}
+  "Gestor | 45 dias":        {marco: 45, papel: gestor}
+  "Gestor | 90 dias":        {marco: 90, papel: gestor}
+  "GPC I 45 DIAS":           {marco: 45, papel: gpc}
+  "GPC I 80 DIAS":           {marco: 80, papel: gpc}   # 80 vira 90 pelo marco_aliases
+
+# O GPC só tem perguntas abertas (sem decisão estruturada). Deixe vazio; a decisão final do gestor é texto livre.
+gpc_decisao_rotulo: null
